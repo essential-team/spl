@@ -1,0 +1,20 @@
+{
+    "name": "essential-team/spl",
+    "description": "Essential Standard PHP Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Essential Team",
+            "email": "codevink@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
